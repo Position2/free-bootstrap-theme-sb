@@ -1,8 +1,8 @@
-# Position2 Free Bootstrap Theme - Small Business
+# Bootstrap Theme - Small Business
 
-[![Click Preview](https://position2.github.io/free-bootstrap-theme-sb/small-business/images/leaf-thumbnail.jpg)](https://position2.github.io/free-bootstrap-theme-sb/small-business/)
+[![Click Preview](https://position2.github.io/free-bootstrap-theme-sb/images/leaf-thumbnail.jpg)](https://position2.github.io/free-bootstrap-theme-sb/)
 
-**[Live Demo](https://position2.github.io/free-bootstrap-theme-sb/small-business/)**
+**[Live Demo](https://position2.github.io/free-bootstrap-theme-sb/)**
 
 # Theme Details & Demo
 
@@ -46,4 +46,4 @@ Download the package then edit the HTML and CSS files included with the template
 
 # Copyright and License
 
-Copyright 2018-2019 Position2 Inc. Code released under the [MIT](https://github.com/Position2/free-bootstrap-theme-sb/blob/master/small-business/LICENSE) license.
+Copyright 2018-2019 Position2 Inc. Code released under the [MIT](https://github.com/Position2/free-bootstrap-theme-sb/blob/master/LICENSE) license.
