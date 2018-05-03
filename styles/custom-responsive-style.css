@@ -256,6 +256,10 @@
 	#Footer .footer-text .email-box input {
 		width: 100%;
 	}
+	#Footer .footer-text p.designed {
+		text-align: center;
+		margin-top: 15px;
+	}
 }
 /*Mobile landscape view styles*/
 @media (min-width: 480px) and (max-width: 767px) {
