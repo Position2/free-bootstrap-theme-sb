@@ -12,13 +12,13 @@ We will update and improve the template based on user feedback so get in touch o
 
 # Author & License
 
-This Bootstrap template is made by Position2 UI designer for developers and is 100% FREE under the Creative Commons Attribution 3.0 License (CC BY 3.0)
+This Bootstrap template is made by [Position2](https://www.position2.com/) UI designer for developers and is 100% FREE under the Creative Commons Attribution 3.0 License (CC BY 3.0)
 
 # Features
 
     Fully Responsive
     HTML5 + CSS3
-    Built on Bootstrap v4.0.0-alpha.6
+    Built on Bootstrap v4.1.0
     600+ FontAwesome icons
     Compatible with all modern browsers
 
@@ -46,4 +46,4 @@ Download the package then edit the HTML and CSS files included with the template
 
 # Copyright and License
 
-Copyright 2018-2019 Position2 Inc. Code released under the [MIT](https://github.com/Position2/free-bootstrap-theme-sb/blob/master/LICENSE) license.
+Copyright 2018-2019 [Position2 Inc](https://www.position2.com/). Code released under the [MIT](https://github.com/Position2/free-bootstrap-theme-sb/blob/master/LICENSE) license.
